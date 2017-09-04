@@ -64,6 +64,13 @@
           "user": "rgbkrk",
           "repo": "compositor-test"
         }
+      ],
+      "text": "This is pretty cool I suppose, though it's not going to replace my current flow.",
+      "links": [
+        {
+          "href": "https://nteract.io",
+          "text": "nteract.io"
+        }
       ]
     },
     {
